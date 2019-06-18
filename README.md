@@ -1,5 +1,4 @@
-![TRAA Logo](images/traa_logo_MASTER.jpg)
-Format: ![Anglers Association](http://anglers.org)
+![TRAA Logo](/images/traaLogo.png)
 
 # TRAA Midterm Review
 
