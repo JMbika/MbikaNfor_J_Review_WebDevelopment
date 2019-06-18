@@ -1,18 +1,20 @@
-Project Title
+![GitHub Logo](/images/traa_logo_MASTER.jpg)
+Format: ![Anglers Association](http://anglers.org)
 
-Simple overview of use/purpose.
+#TRAA Midterm Review
 
-Description
+##Description
 
-An in-depth paragraph about your project and overview of use.
+Fixing some common problems
 
-Getting Started
+##Getting Started
 
-Dependencies
+###Dependencies
 
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
+Uses CSS3 and HTML5 latest features. Be sure to prefix and bleeding-edges rules, tags etc  [caniuse](https://caniuse.com) for reference. Also using latest ES6/next, [babel](https://babeljs.io)
+
+
+###Installing
 
 How/where to download your program
 Any modifications needed to be made to files/folders
@@ -26,25 +28,17 @@ Help
 Any advise for common problems or issues.
 
 command to run if program contains helper info
-Authors
 
-Contributors names and contact info
+##Authors
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+Developer : Joyce
+Designer: Cheyenne
 
-Version History
-
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
+##License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-Acknowledgments
+##Acknowledgments
 
 Inspiration, code snippets, etc.
 
