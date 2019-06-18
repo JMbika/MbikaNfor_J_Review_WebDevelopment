@@ -1,20 +1,20 @@
-![GitHub Logo](/images/traa_logo_MASTER.jpg)
+![TRAA Logo](images/traa_logo_MASTER.jpg)
 Format: ![Anglers Association](http://anglers.org)
 
-#TRAA Midterm Review
+# TRAA Midterm Review
 
-##Description
+## Description
 
 Fixing some common problems
 
-##Getting Started
+## Getting Started
 
-###Dependencies
+### Dependencies
 
 Uses CSS3 and HTML5 latest features. Be sure to prefix and bleeding-edges rules, tags etc  [caniuse](https://caniuse.com) for reference. Also using latest ES6/next, [babel](https://babeljs.io)
 
 
-###Installing
+### Installing
 
 How/where to download your program
 Any modifications needed to be made to files/folders
@@ -29,16 +29,16 @@ Any advise for common problems or issues.
 
 command to run if program contains helper info
 
-##Authors
+## Authors
 
 Developer : Joyce
 Designer: Cheyenne
 
-##License
+## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-##Acknowledgments
+## Acknowledgments
 
 Inspiration, code snippets, etc.
 
